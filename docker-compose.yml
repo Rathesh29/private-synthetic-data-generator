@@ -1,0 +1,65 @@
+services:
+  # PostgreSQL Database Service
+  postgres:
+    image: postgres:16-alpine
+    container_name: hr_privacy_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-hr_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-hr_secure_password_2026}
+      POSTGRES_DB: ${POSTGRES_DB:-hr_privacy_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-hr_user} -d ${POSTGRES_DB:-hr_privacy_db}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # FastAPI Backend Service
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: hr_privacy_backend
+    restart: unless-stopped
+    environment:
+      - ENVIRONMENT=production
+      - SECRET_KEY=${SECRET_KEY:-hr-privacy-super-secret-production-key-change-in-prod-8f92b7c4d1e0}
+      - DATABASE_URL=postgresql+psycopg2://${POSTGRES_USER:-hr_user}:${POSTGRES_PASSWORD:-hr_secure_password_2026}@postgres:5432/${POSTGRES_DB:-hr_privacy_db}
+      - MAX_GLOBAL_EPSILON_BUDGET=10.0
+      - DEFAULT_EPSILON=1.0
+      - DEFAULT_DELTA=0.00001
+      - FIRST_SUPERUSER_EMAIL=admin@hrprivacy.org
+      - FIRST_SUPERUSER_PASSWORD=Admin@123456
+      - FIRST_ANALYST_EMAIL=analyst@hrprivacy.org
+      - FIRST_ANALYST_PASSWORD=Analyst@123456
+      - FIRST_VIEWER_EMAIL=viewer@hrprivacy.org
+      - FIRST_VIEWER_PASSWORD=Viewer@123456
+    ports:
+      - "8000:8000"
+    volumes:
+      - backend_uploads:/app/data/uploads
+      - backend_synthetic:/app/data/synthetic
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  # React Frontend with Nginx
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: hr_privacy_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
+  backend_uploads:
+  backend_synthetic:

@@ -1,0 +1,251 @@
+employee_id,age,gender,department,job_role,years_at_company,salary,performance_rating,attendance_rate,overtime,work_life_balance,attrition
+EMP00001,46,Female,Finance,Auditor,11,106826,4,91.0,No,2,No
+EMP00002,31,Female,Sales,Sales Manager,5,128491,3,93.6,No,3,No
+EMP00003,27,Male,Human Resources,Compensation Analyst,3,65232,3,96.9,Yes,3,Yes
+EMP00004,25,Female,Sales,Sales Manager,2,87014,3,94.1,No,1,No
+EMP00005,36,Male,Marketing,Marketing Director,5,80764,4,90.2,No,4,No
+EMP00006,48,Male,Engineering,DevOps Engineer,10,139199,3,94.0,No,3,No
+EMP00007,33,Female,Engineering,Software Engineer,2,120945,3,97.7,No,2,No
+EMP00008,42,Female,Engineering,Software Engineer,2,119783,2,95.7,Yes,2,Yes
+EMP00009,46,Female,Sales,Sales Manager,14,112347,4,90.4,No,3,No
+EMP00010,30,Male,Marketing,Marketing Specialist,3,60470,3,89.1,No,1,No
+EMP00011,37,Female,Marketing,Content Strategist,5,80452,3,87.0,No,4,No
+EMP00012,48,Female,Engineering,Software Engineer,12,83794,3,84.5,No,2,No
+EMP00013,46,Female,Engineering,Software Engineer,4,129227,4,94.0,Yes,1,No
+EMP00014,47,Female,Marketing,Content Strategist,17,118128,4,91.5,Yes,1,No
+EMP00015,44,Female,Finance,Auditor,10,69007,5,94.4,No,2,No
+EMP00016,52,Female,Engineering,Engineering Manager,7,127409,2,92.5,No,2,No
+EMP00017,51,Female,Engineering,Engineering Manager,9,113251,3,98.0,No,3,No
+EMP00018,42,Male,Engineering,Senior Engineer,9,127219,3,96.5,No,3,No
+EMP00019,35,Male,Sales,Sales Representative,3,74090,4,95.5,No,3,No
+EMP00020,58,Female,Sales,Sales Manager,2,80820,2,97.7,No,3,Yes
+EMP00021,46,Male,Marketing,SEO Analyst,6,77926,4,95.7,No,2,Yes
+EMP00022,46,Female,Sales,Sales Manager,14,107416,5,97.9,No,4,No
+EMP00023,44,Male,Product,Product Manager,0,104838,3,96.9,No,2,Yes
+EMP00024,38,Male,Sales,Sales Manager,9,139895,3,95.5,No,4,No
+EMP00025,29,Male,Engineering,Engineering Manager,3,102349,4,89.0,No,1,No
+EMP00026,27,Female,Human Resources,Compensation Analyst,3,49332,2,94.4,Yes,3,No
+EMP00027,38,Female,Engineering,QA Engineer,3,70920,4,88.0,Yes,4,No
+EMP00028,46,Female,Engineering,Senior Engineer,3,125711,4,92.0,No,3,No
+EMP00029,51,Female,Finance,Auditor,4,101989,4,89.8,Yes,2,No
+EMP00030,36,Male,Finance,Staff Accountant,7,106354,3,95.7,No,3,No
+EMP00031,38,Male,Engineering,Software Engineer,14,122276,3,96.6,No,2,No
+EMP00032,31,Male,Marketing,Marketing Specialist,2,90195,5,95.7,No,3,No
+EMP00033,40,Male,Marketing,Marketing Director,13,89174,2,93.1,No,4,No
+EMP00034,34,Female,Human Resources,HR Manager,7,89054,3,97.6,No,3,No
+EMP00035,32,Female,Product,Product Manager,6,112967,3,89.1,Yes,1,No
+EMP00036,31,Male,Engineering,DevOps Engineer,6,69606,4,84.5,No,3,No
+EMP00037,34,Male,Operations,Operations Associate,6,68730,4,94.9,No,2,Yes
+EMP00038,55,Female,Human Resources,Compensation Analyst,10,68271,3,91.1,No,4,No
+EMP00039,37,Female,Sales,Business Development Lead,5,121366,4,96.8,No,2,No
+EMP00040,29,Female,Sales,Business Development Lead,3,86609,3,97.5,Yes,1,No
+EMP00041,34,Female,Sales,Sales Manager,2,116471,4,84.8,No,2,No
+EMP00042,22,Male,Engineering,Software Engineer,0,92363,3,89.2,No,2,No
+EMP00043,50,Male,Engineering,Engineering Manager,9,125169,2,99.4,No,4,No
+EMP00044,30,Male,Marketing,Marketing Specialist,3,52320,5,91.1,Yes,1,Yes
+EMP00045,44,Female,Engineering,Senior Engineer,4,102415,3,83.0,Yes,2,No
+EMP00046,28,Male,Sales,Sales Manager,4,113518,4,95.2,No,3,No
+EMP00047,41,Female,Sales,Sales Manager,2,117004,3,84.5,No,2,No
+EMP00048,31,Female,Engineering,Engineering Manager,3,118460,5,92.2,No,1,No
+EMP00049,36,Male,Marketing,Marketing Director,2,78850,3,97.1,No,3,No
+EMP00050,51,Female,Engineering,Software Engineer,12,115158,4,95.2,No,4,No
+EMP00051,38,Male,Engineering,QA Engineer,5,109579,3,90.5,No,2,Yes
+EMP00052,57,Male,Marketing,Marketing Director,10,110009,2,93.5,Yes,1,No
+EMP00053,41,Female,Engineering,Senior Engineer,8,109400,1,94.7,Yes,4,Yes
+EMP00054,40,Male,Operations,Operations Manager,4,75187,3,96.8,No,3,No
+EMP00055,29,Male,Human Resources,Compensation Analyst,1,48000,4,94.3,No,1,No
+EMP00056,40,Male,Marketing,Content Strategist,9,99103,4,94.1,No,4,No
+EMP00057,33,Female,Finance,Finance Manager,1,86441,3,87.9,No,3,Yes
+EMP00058,34,Male,Sales,Sales Representative,3,80687,4,95.0,No,2,No
+EMP00059,38,Female,Sales,Sales Manager,8,94414,3,90.6,Yes,1,No
+EMP00060,36,Male,Engineering,DevOps Engineer,10,101396,5,84.9,Yes,4,No
+EMP00061,26,Male,Engineering,DevOps Engineer,0,88137,4,93.1,No,3,No
+EMP00062,37,Female,Sales,Sales Manager,4,91636,1,93.1,No,2,Yes
+EMP00063,35,Female,Engineering,QA Engineer,4,107431,4,94.2,Yes,3,No
+EMP00064,36,Female,Operations,Operations Associate,3,53323,3,90.3,No,2,No
+EMP00065,37,Male,Finance,Financial Analyst,10,89136,4,95.4,No,3,Yes
+EMP00066,47,Female,Operations,Operations Associate,15,73308,5,89.0,No,3,No
+EMP00067,33,Female,Sales,Sales Representative,7,64333,3,91.7,Yes,1,No
+EMP00068,54,Male,Engineering,DevOps Engineer,7,111398,1,92.5,No,4,No
+EMP00069,32,Male,Engineering,QA Engineer,3,80453,5,93.8,Yes,3,Yes
+EMP00070,38,Male,Sales,Sales Representative,9,84037,5,96.4,No,3,No
+EMP00071,25,Female,Sales,Account Executive,2,61537,3,96.8,No,1,No
+EMP00072,46,Male,Marketing,Content Strategist,0,75830,2,94.7,No,2,No
+EMP00073,34,Female,Sales,Business Development Lead,2,87696,3,96.7,No,1,No
+EMP00074,39,Male,Engineering,Senior Engineer,12,165626,3,92.0,No,1,No
+EMP00075,34,Male,Product,Product Manager,3,105196,3,91.6,Yes,3,No
+EMP00076,30,Male,Finance,Finance Manager,1,102979,3,91.8,No,3,Yes
+EMP00077,43,Male,Engineering,QA Engineer,11,77915,3,95.4,No,3,No
+EMP00078,42,Female,Sales,Business Development Lead,3,110260,4,92.5,No,3,No
+EMP00079,49,Female,Sales,Sales Manager,8,81587,3,94.5,No,3,No
+EMP00080,35,Female,Operations,Operations Associate,5,82748,3,84.7,No,1,Yes
+EMP00081,38,Non-Binary,Sales,Sales Representative,5,100984,2,94.3,No,3,No
+EMP00082,48,Female,Human Resources,Compensation Analyst,6,92680,5,91.7,No,3,No
+EMP00083,53,Male,Product,Product Manager,11,110630,2,96.6,No,3,No
+EMP00084,39,Female,Engineering,Software Engineer,3,118137,2,84.6,No,2,Yes
+EMP00085,56,Non-Binary,Marketing,Content Strategist,28,131001,3,94.7,No,3,No
+EMP00086,32,Non-Binary,Marketing,Marketing Specialist,3,58509,3,92.9,No,3,No
+EMP00087,39,Female,Engineering,Engineering Manager,3,128269,3,91.8,No,2,Yes
+EMP00088,27,Male,Sales,Sales Representative,4,92998,5,95.3,No,3,No
+EMP00089,48,Female,Operations,Operations Manager,1,74601,3,94.0,No,3,No
+EMP00090,46,Female,Operations,Operations Manager,5,78441,3,85.6,No,2,No
+EMP00091,27,Male,Finance,Finance Manager,1,98392,3,89.1,No,3,No
+EMP00092,55,Female,Human Resources,Compensation Analyst,28,126670,3,91.6,No,2,No
+EMP00093,31,Male,Engineering,DevOps Engineer,6,90887,3,97.9,Yes,2,Yes
+EMP00094,30,Female,Engineering,DevOps Engineer,4,128620,4,96.1,No,4,No
+EMP00095,32,Male,Product,UX Designer,7,125927,3,92.8,No,3,No
+EMP00096,36,Female,Operations,Operations Associate,7,67073,3,87.6,Yes,1,No
+EMP00097,26,Male,Engineering,Engineering Manager,3,149839,3,98.7,Yes,2,No
+EMP00098,37,Female,Sales,Sales Representative,9,62123,3,87.0,No,4,No
+EMP00099,36,Male,Marketing,SEO Analyst,7,83900,5,97.7,Yes,2,No
+EMP00100,41,Female,Product,Product Lead,11,102837,3,94.1,No,2,No
+EMP00101,30,Male,Engineering,Senior Engineer,5,151823,4,86.7,No,3,No
+EMP00102,46,Male,Human Resources,HR Manager,10,95848,3,90.8,Yes,4,No
+EMP00103,43,Male,Product,Product Lead,4,121295,3,90.8,Yes,1,No
+EMP00104,31,Male,Operations,Operations Associate,5,84010,3,92.1,No,4,No
+EMP00105,39,Male,Engineering,QA Engineer,3,112605,3,93.0,Yes,2,Yes
+EMP00106,52,Female,Marketing,Content Strategist,12,99629,5,86.2,No,3,Yes
+EMP00107,57,Male,Product,Product Manager,4,107605,4,95.7,No,3,No
+EMP00108,34,Male,Sales,Sales Manager,1,81830,3,88.7,Yes,3,No
+EMP00109,42,Male,Marketing,SEO Analyst,6,82426,4,91.7,No,2,No
+EMP00110,40,Female,Sales,Sales Representative,4,66127,5,97.4,No,1,No
+EMP00111,47,Male,Marketing,Marketing Specialist,7,80680,3,91.2,No,2,No
+EMP00112,55,Male,Operations,Supply Chain Analyst,5,70991,3,93.2,Yes,2,No
+EMP00113,52,Male,Sales,Business Development Lead,16,108800,4,97.2,No,1,Yes
+EMP00114,30,Male,Operations,Supply Chain Analyst,7,76338,3,94.3,No,2,No
+EMP00115,32,Male,Operations,Operations Associate,4,78165,3,90.2,No,3,No
+EMP00116,36,Female,Finance,Staff Accountant,10,109948,3,90.8,No,3,No
+EMP00117,49,Male,Finance,Auditor,16,96283,4,96.7,No,2,No
+EMP00118,34,Female,Engineering,QA Engineer,7,104848,1,88.9,No,3,No
+EMP00119,28,Female,Sales,Account Executive,0,52642,2,88.9,No,3,No
+EMP00120,33,Female,Marketing,SEO Analyst,4,51748,3,89.8,Yes,1,Yes
+EMP00121,44,Male,Sales,Business Development Lead,4,83083,3,88.1,Yes,3,No
+EMP00122,32,Male,Product,Product Lead,2,89954,3,90.3,No,3,No
+EMP00123,39,Female,Engineering,DevOps Engineer,4,124133,2,90.1,Yes,2,Yes
+EMP00124,30,Male,Marketing,Marketing Specialist,2,66421,3,96.3,No,3,No
+EMP00125,55,Female,Sales,Account Executive,10,111356,4,84.8,No,3,No
+EMP00126,33,Male,Engineering,Software Engineer,2,73554,3,95.9,No,2,No
+EMP00127,31,Male,Finance,Auditor,0,68934,2,85.0,Yes,1,No
+EMP00128,27,Female,Marketing,Content Strategist,4,82277,4,95.5,No,3,No
+EMP00129,38,Male,Operations,Operations Manager,8,114525,5,96.8,No,3,No
+EMP00130,42,Male,Human Resources,HR Manager,3,100165,4,95.7,No,3,No
+EMP00131,31,Male,Sales,Sales Representative,6,65232,4,86.4,Yes,1,No
+EMP00132,31,Male,Sales,Business Development Lead,6,129416,5,97.3,No,2,No
+EMP00133,33,Male,Human Resources,Compensation Analyst,2,55547,4,95.8,No,3,Yes
+EMP00134,38,Female,Sales,Sales Manager,9,122877,4,95.1,No,4,No
+EMP00135,48,Female,Sales,Business Development Lead,9,87480,3,86.5,Yes,3,No
+EMP00136,39,Female,Product,Product Manager,4,136589,5,95.6,No,2,Yes
+EMP00137,36,Male,Sales,Sales Manager,3,110390,3,93.6,Yes,3,No
+EMP00138,32,Female,Operations,Operations Manager,4,98987,3,93.8,No,3,No
+EMP00139,53,Male,Operations,Operations Manager,13,129148,4,94.6,Yes,1,Yes
+EMP00140,51,Male,Human Resources,Compensation Analyst,5,69761,3,86.1,No,3,No
+EMP00141,40,Male,Sales,Business Development Lead,12,128463,4,88.0,Yes,4,Yes
+EMP00142,47,Female,Finance,Financial Analyst,7,81743,3,95.8,No,3,No
+EMP00143,53,Male,Operations,Supply Chain Analyst,2,62803,3,87.2,Yes,1,No
+EMP00144,46,Female,Product,Data Analyst,11,88294,1,87.2,Yes,3,No
+EMP00145,50,Female,Engineering,DevOps Engineer,8,95210,2,89.2,No,2,No
+EMP00146,29,Male,Engineering,Software Engineer,5,89461,4,90.9,No,3,No
+EMP00147,32,Female,Finance,Auditor,3,91368,3,91.9,Yes,3,No
+EMP00148,43,Female,Sales,Sales Representative,5,93572,4,98.4,No,3,No
+EMP00149,29,Male,Engineering,Software Engineer,2,105091,4,93.6,No,3,No
+EMP00150,41,Male,Engineering,QA Engineer,9,131238,2,91.7,No,3,No
+EMP00151,53,Male,Marketing,Marketing Specialist,4,64571,5,85.7,No,3,No
+EMP00152,38,Female,Sales,Account Executive,14,79155,2,84.0,No,4,No
+EMP00153,35,Male,Engineering,QA Engineer,10,98510,3,97.0,No,1,No
+EMP00154,45,Female,Engineering,Engineering Manager,3,144309,4,90.6,No,4,No
+EMP00155,27,Female,Product,Data Analyst,1,70270,1,87.9,No,3,No
+EMP00156,37,Female,Engineering,QA Engineer,9,76049,4,90.0,Yes,2,Yes
+EMP00157,36,Female,Finance,Staff Accountant,12,128741,3,94.5,Yes,1,Yes
+EMP00158,36,Non-Binary,Sales,Business Development Lead,12,111716,3,94.7,No,4,No
+EMP00159,35,Female,Human Resources,HR Manager,2,90829,2,90.8,Yes,3,No
+EMP00160,47,Male,Sales,Sales Representative,5,78525,3,90.0,No,4,No
+EMP00161,42,Female,Engineering,QA Engineer,6,74403,3,98.5,No,3,No
+EMP00162,37,Female,Human Resources,Compensation Analyst,9,78361,3,92.7,Yes,1,Yes
+EMP00163,42,Male,Marketing,Marketing Director,2,77278,4,93.9,Yes,1,No
+EMP00164,37,Female,Engineering,Software Engineer,9,107793,3,88.4,No,3,No
+EMP00165,43,Female,Operations,Operations Associate,19,118645,2,85.7,No,4,No
+EMP00166,29,Female,Finance,Finance Manager,3,84545,3,87.1,No,4,No
+EMP00167,40,Female,Human Resources,Talent Acquisition Partner,4,58990,3,85.2,No,2,No
+EMP00168,27,Female,Finance,Financial Analyst,3,63850,3,83.3,No,2,No
+EMP00169,26,Female,Finance,Finance Manager,2,134565,3,93.9,No,3,No
+EMP00170,32,Female,Sales,Sales Representative,2,80496,3,84.4,Yes,1,Yes
+EMP00171,46,Female,Marketing,SEO Analyst,9,59264,3,98.7,No,4,No
+EMP00172,44,Female,Engineering,Senior Engineer,10,149845,3,94.9,No,4,No
+EMP00173,31,Male,Sales,Sales Representative,4,68629,2,92.7,No,3,No
+EMP00174,34,Female,Marketing,Marketing Specialist,9,84688,4,97.5,Yes,3,No
+EMP00175,26,Male,Engineering,Software Engineer,1,60327,3,91.0,Yes,1,Yes
+EMP00176,32,Female,Product,Data Analyst,3,112548,3,87.3,No,4,No
+EMP00177,56,Male,Sales,Sales Representative,27,150542,2,93.0,No,2,No
+EMP00178,30,Female,Finance,Staff Accountant,4,85758,3,92.6,Yes,3,No
+EMP00179,38,Female,Human Resources,HR Manager,2,67077,3,95.8,Yes,3,Yes
+EMP00180,46,Female,Engineering,Senior Engineer,14,150558,3,95.6,No,4,No
+EMP00181,31,Male,Marketing,Marketing Director,7,121286,4,89.8,Yes,1,No
+EMP00182,25,Male,Sales,Business Development Lead,2,117763,1,93.6,No,3,No
+EMP00183,32,Male,Product,Product Manager,3,104204,4,90.2,Yes,2,Yes
+EMP00184,43,Male,Finance,Auditor,1,71455,2,92.3,No,3,Yes
+EMP00185,38,Female,Engineering,Engineering Manager,9,159675,5,90.0,Yes,2,Yes
+EMP00186,55,Non-Binary,Marketing,Content Strategist,10,93007,4,97.3,Yes,2,Yes
+EMP00187,28,Male,Engineering,Engineering Manager,4,97031,3,97.3,Yes,3,No
+EMP00188,25,Male,Finance,Finance Manager,1,86940,4,88.4,Yes,4,Yes
+EMP00189,40,Female,Engineering,Software Engineer,15,137008,3,93.7,Yes,3,No
+EMP00190,44,Female,Engineering,Engineering Manager,4,115497,4,94.5,No,3,No
+EMP00191,32,Female,Marketing,Marketing Specialist,7,50825,1,91.8,Yes,2,Yes
+EMP00192,48,Male,Finance,Finance Manager,12,115567,5,94.9,Yes,3,Yes
+EMP00193,42,Male,Product,Data Analyst,2,91547,3,89.4,No,3,No
+EMP00194,37,Female,Engineering,Software Engineer,4,107008,3,97.5,No,3,No
+EMP00195,29,Female,Finance,Finance Manager,3,107655,3,94.4,No,3,No
+EMP00196,30,Female,Marketing,Marketing Director,4,76200,4,90.1,No,1,Yes
+EMP00197,28,Female,Marketing,Marketing Director,3,111216,4,89.3,Yes,3,No
+EMP00198,51,Female,Marketing,SEO Analyst,3,57123,5,94.4,No,4,Yes
+EMP00199,50,Female,Operations,Operations Manager,5,103328,5,92.5,Yes,2,Yes
+EMP00200,45,Female,Engineering,Senior Engineer,6,142916,4,96.0,No,3,No
+EMP00201,26,Male,Sales,Sales Representative,3,52003,3,96.6,No,3,Yes
+EMP00202,46,Male,Engineering,Software Engineer,4,110237,4,88.5,No,3,No
+EMP00203,44,Male,Product,Data Analyst,10,120434,3,97.5,No,4,Yes
+EMP00204,59,Male,Engineering,DevOps Engineer,15,140141,3,97.5,No,2,No
+EMP00205,39,Male,Product,UX Designer,6,83791,4,89.5,No,2,No
+EMP00206,45,Non-Binary,Engineering,QA Engineer,3,65754,4,90.3,No,2,No
+EMP00207,35,Male,Operations,Operations Manager,6,93856,3,89.3,No,2,Yes
+EMP00208,39,Female,Engineering,QA Engineer,7,79545,1,95.0,No,4,No
+EMP00209,25,Male,Sales,Sales Representative,1,71667,3,87.7,No,3,No
+EMP00210,32,Female,Engineering,Engineering Manager,1,110277,3,85.4,No,4,No
+EMP00211,29,Female,Finance,Staff Accountant,2,84400,2,95.6,No,3,No
+EMP00212,60,Male,Sales,Sales Manager,13,146697,3,95.3,Yes,1,No
+EMP00213,34,Female,Finance,Finance Manager,3,81139,4,95.9,Yes,1,No
+EMP00214,39,Male,Engineering,DevOps Engineer,8,78029,5,95.8,No,3,No
+EMP00215,54,Male,Product,Data Analyst,11,101045,2,85.3,Yes,3,No
+EMP00216,42,Female,Engineering,DevOps Engineer,5,93712,5,92.5,No,3,No
+EMP00217,55,Female,Engineering,QA Engineer,8,87045,3,94.0,No,2,Yes
+EMP00218,29,Female,Human Resources,Talent Acquisition Partner,5,92649,3,93.4,Yes,2,No
+EMP00219,54,Female,Engineering,DevOps Engineer,4,101713,1,92.0,No,3,No
+EMP00220,33,Female,Finance,Finance Manager,5,121756,3,93.7,Yes,2,No
+EMP00221,35,Female,Marketing,SEO Analyst,4,61281,3,96.5,No,2,No
+EMP00222,30,Male,Engineering,Senior Engineer,5,126327,4,94.6,Yes,2,No
+EMP00223,23,Male,Marketing,Marketing Specialist,0,54285,3,88.2,No,2,No
+EMP00224,36,Male,Engineering,DevOps Engineer,7,132485,3,88.2,No,3,No
+EMP00225,55,Male,Finance,Finance Manager,4,107828,3,89.7,No,2,No
+EMP00226,34,Male,Human Resources,HR Manager,2,94782,3,98.1,No,4,No
+EMP00227,29,Female,Operations,Operations Associate,4,60803,3,93.7,No,2,No
+EMP00228,33,Male,Human Resources,HR Manager,9,105206,3,96.2,No,3,No
+EMP00229,36,Female,Finance,Finance Manager,7,123956,5,89.1,No,3,No
+EMP00230,33,Male,Finance,Financial Analyst,6,91937,3,86.6,No,4,No
+EMP00231,41,Female,Marketing,Marketing Director,4,91125,3,95.2,No,3,No
+EMP00232,31,Female,Operations,Operations Associate,7,67998,4,90.3,No,2,Yes
+EMP00233,36,Female,Marketing,Content Strategist,4,60312,3,91.6,No,1,No
+EMP00234,45,Male,Operations,Supply Chain Analyst,13,72676,3,84.8,No,2,No
+EMP00235,55,Male,Marketing,Marketing Specialist,14,110157,4,97.3,No,3,No
+EMP00236,27,Male,Sales,Account Executive,3,97843,4,93.0,No,3,No
+EMP00237,44,Female,Engineering,DevOps Engineer,13,131263,3,93.4,No,4,No
+EMP00238,31,Male,Human Resources,Talent Acquisition Partner,7,92233,1,94.5,No,3,No
+EMP00239,34,Male,Engineering,DevOps Engineer,3,124889,4,85.4,No,2,No
+EMP00240,54,Male,Sales,Business Development Lead,12,118192,5,85.6,Yes,1,No
+EMP00241,40,Male,Sales,Business Development Lead,1,111445,3,95.6,No,3,No
+EMP00242,30,Male,Human Resources,Talent Acquisition Partner,1,42000,3,88.2,No,3,No
+EMP00243,38,Male,Marketing,SEO Analyst,10,69293,3,93.8,No,2,No
+EMP00244,29,Male,Operations,Operations Manager,5,107150,3,95.1,No,2,No
+EMP00245,32,Female,Sales,Sales Manager,3,131414,4,91.9,No,4,No
+EMP00246,35,Female,Sales,Business Development Lead,7,132957,3,96.2,No,3,No
+EMP00247,36,Male,Engineering,QA Engineer,8,89622,4,89.7,No,3,No
+EMP00248,36,Male,Engineering,DevOps Engineer,12,89112,4,94.6,No,3,No
+EMP00249,38,Female,Product,Product Lead,8,130445,2,91.8,Yes,2,No
+EMP00250,50,Female,Sales,Account Executive,10,108193,3,97.4,No,4,No
